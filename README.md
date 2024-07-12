@@ -6,11 +6,11 @@ https://www.figma.com/proto/Eedh6dGjJ9NvPLHRWqRKZJ/Healthcare-dashboard?node-id=
 How to set up and run the Angular project.
 
 1) Clone or Download the Project
-     git clone <repository-url>
+     git clone https://github.com/dursoju/amplelogic.git
 
 2) Navigate to the Project Directory
-   Open your terminal or command prompt and navigate to the project directory:
-   	cd path/to/angular-project-task(dashboardHealthcare)
+   Extract zip folder dashboardHealthcare.zip
+   navigate to dashboardHealthcare folder then next
 
 3) Install Project Dependencies
    Inside the project directory, run the following command to install all the dependencies listed in package.json:
